@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  apicore:
+    image: apicore
+    build: ./ApiCore
+    ports: 
+        - 8080:80    
+    
+  consolecache:
+    image: consolecache
+    build: ./ConsoleCache

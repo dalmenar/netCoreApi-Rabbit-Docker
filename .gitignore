@@ -1,0 +1,11 @@
+.vs/
+ApiCore/obj/
+ApiCore/ApiCore.csproj.user
+ApiCore/bin/
+ApiCoreLog/bin/Debug/netcoreapp1.1/ApiCoreLog.deps.json
+ApiCoreLog/bin/
+ApiCoreLog/obj/
+bin/
+ConsoleCache/obj/
+ConsoleCache/out/
+obj/

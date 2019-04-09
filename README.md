@@ -7,4 +7,4 @@ Test connection with rabbit and docker deploy
 
 docker-compose build
 
-docker-compose run
+docker-compose up
